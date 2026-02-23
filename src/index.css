@@ -1,0 +1,11 @@
+html {
+  scroll-behavior: smooth; /* Smooth scrolling */
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 14px; /* Reduced base font size */
+}
